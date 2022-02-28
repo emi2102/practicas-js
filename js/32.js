@@ -7,9 +7,9 @@ function descargarNuevosClientes(){
     setTimeout( ()=>{// esperamos 5 segundos
        resolve('Los clientes fueron descargados');
     },5000);
-
-});
     
+});
+
 }
 
 
