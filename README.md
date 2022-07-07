@@ -11,3 +11,5 @@ Son archivos con cada una de las practicas basicas de JavaScript que puedes usar
 Puedes instalarlo clonando el repositorio
 
 `$ git clone url`
+
+### - Emilmar Cuarez
